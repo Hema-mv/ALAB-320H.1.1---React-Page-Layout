@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "styled-components": "^6.1.13",
+    "dev": "vite", 
+    "build": "vite build", 
+    "serve": "vite preview"
+  }
+}

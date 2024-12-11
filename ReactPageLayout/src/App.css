@@ -1,0 +1,49 @@
+/* src/App.css */
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+.Header {
+  background-color: #4CAF50;
+  padding: 10px;
+  color: white;
+  font-size: 6px;
+}
+
+.SearchBar {
+  margin: 20px auto;
+  max-width: 600px;
+}
+
+.SearchBar input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.EmployeeListItem {
+  background-color: white;
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 10px;
+  width: 200px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  text-align: left;
+}
+
+.EmployeeListItem h2 {
+  margin: 0;
+  font-size: 18px;
+  color: #333;
+}
+
+.EmployeeListItem p {
+  margin: 5px 0 0;
+  color: #777;
+}

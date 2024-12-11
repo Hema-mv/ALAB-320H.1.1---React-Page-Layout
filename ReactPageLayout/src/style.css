@@ -1,0 +1,28 @@
+.App {
+    text-align: center;
+  }
+  
+  .Header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+  }
+  
+  .SearchBar {
+    margin: 20px;
+  }
+  
+  .EmployeeList {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .EmployeeListItem {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 5px;
+    width: 300px;
+    text-align: left;
+  }
+  
